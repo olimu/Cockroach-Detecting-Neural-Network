@@ -1,4 +1,4 @@
-# Cockroach-NN
+# Cockroach Detecting Neural Network
 Appendices.pdf is a document containing more data related to the neural network, specifically many more heat maps that illustrate its key features.
 
 LibModel1L.py is a module which includes support code to train, run, evaluate, and debug the network. shrink322.tgz is my image dataset.
