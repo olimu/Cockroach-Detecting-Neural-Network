@@ -7,6 +7,6 @@ The NN_and_Heat_Maps.ipynb jupyter notebook first trains the neural network, run
 
 The heat map code outputs an array of heat maps for each layer. Currently there are 5 image paths at the begining of this code, 1 verification image, 1 true negative, 1 false hit, 1 true positive, and 1 miss. 
 
-CockroachNNPoster.pdf (poster from PRSEF competition explaining project)
-CockroachNNSlides.pdf (slides that goes with audiofrom PJAS competition explaining project)
-CockroachNNAudio.mp4 (audio that goes with slides from PJAS competition explaining project)
+- CockroachNNPoster.pdf (poster from PRSEF competition explaining project)
+- CockroachNNSlides.pdf (slides that goes with audiofrom PJAS competition explaining project)
+- CockroachNNAudio.mp4 (audio that goes with slides from PJAS competition explaining project)
