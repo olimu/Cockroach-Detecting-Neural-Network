@@ -8,5 +8,7 @@ code:
 
 
 CockroachNNPoster.pdf (poster from PRSEF competition explaining project)
+
 CockroachNNSlides.pdf (slides that goes with audiofrom PJAS competition explaining project)
+
 CockroachNNAudio.mp4 (audio that goes with slides from PJAS competition explaining project)
