@@ -12,6 +12,7 @@ code folder
 **CockroachNNPoster.pdf:** poster from Pittsburgh Regional Science and Engineering Fair
 
 **CockroachNNSlides.pdf:** slides that goes with audio from the Pennsylvania Junior Academy Science (PJAS) competition where I won 1st and 2nd place in the Computer Science category at the Region 7 and State competitions respectively
+
 **CockroachNNAudio.mp4:** audio that goes with slides from PJAS competition
 
 **Appendices.pdf:** contains data related to the neural network, specifically many heat maps that illustrate key features
