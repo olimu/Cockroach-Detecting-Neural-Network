@@ -1,7 +1,7 @@
 # Cockroach Detecting Neural Network
 Neural Network trained to detect cockroches and generate heat maps highlighting key features used to detect cockroaches, namely shape. 
 
-code folder
+**code folder**
 - LibModel1L.py is a module which includes support code to train, run, evaluate, and debug the network
    - shrink322.tgz is my image dataset.
 - The NN_and_Heat_Maps.ipynb jupyter notebook first trains the neural network, runs it, and outputs its metric results. Then it generates heat maps for specific images.
