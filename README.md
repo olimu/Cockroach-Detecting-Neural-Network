@@ -9,10 +9,10 @@ code folder
 
 
 
-CockroachNNPoster.pdf (poster from PRSEF competition explaining project)
+**CockroachNNPoster.pdf:** poster from Pittsburgh Regional Science and Engineering Fair
 
-CockroachNNSlides.pdf (slides that goes with audiofrom PJAS competition explaining project)
+**CockroachNNSlides.pdf:** slides that goes with audio from the Pennsylvania Junior Academy Science (PJAS) competition
 
-CockroachNNAudio.mp4 (audio that goes with slides from PJAS competition explaining project)
+**CockroachNNAudio.mp4:** audio that goes with slides from PJAS competition
 
-Appendices.pdf contains data related to the neural network, specifically many heat maps that illustrate key features
+**Appendices.pdf:** contains data related to the neural network, specifically many heat maps that illustrate key features
